@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fc7f1f63-5d59-4ab9-b744-ffff3239f4f7" name="Wordpress" url="http://uashared21.twinservers.net">
+        <fileTransfer rootFolder="/wp.prudkyi.dev/wp-content" host="uashared21.twinservers.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
